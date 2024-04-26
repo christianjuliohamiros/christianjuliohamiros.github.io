@@ -3,7 +3,7 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-  background: url("../images/home-img.jpg") no-repeat center center;
+  background: url("../images2/home.jpeg") no-repeat center center;
   background-size: cover;
   background-position: 70%;
   height: 100vh;
@@ -170,6 +170,7 @@ body {
 
 /* Common Style */
 .ww-title {
+  color: #010101;
   font-family: "Great Vibes", cursive; }
 
 .ww-section {
