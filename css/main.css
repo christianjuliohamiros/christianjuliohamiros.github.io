@@ -46,7 +46,16 @@ body {
   position: absolute;
   left: 0;
   top: 0; }
-
+  
+.strokeme
+{
+    color: white;
+    text-shadow:
+    -1px -1px 0 #fff,
+    1px -1px 0 #fff,
+    -1px 1px 0 #fff,
+    1px 1px 0 #fff;  
+}
 /* Nav Bar Style */
 .ww-nav-bar .heart {
   fill: #f26147;
